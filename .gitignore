@@ -196,3 +196,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+package-lock.json
+.vscode
+.DS_Store

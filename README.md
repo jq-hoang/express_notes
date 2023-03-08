@@ -2,7 +2,7 @@
 
 ## Overview
 ## [Deployed Application](https://express-note-taking.herokuapp.com/)
-## [Github Repo](https://github.com/JHoang6900/note_taker2)
+## [Github Repo](https://github.com/jq-hoang/express_notes)
 
 
 ## My Task

@@ -1,7 +1,7 @@
 # Express.js: Note Taker
 
 ## Overview
-## [Deployed Application](DEPLOYHERE/)
+## [Deployed Application](https://express-note-taking.herokuapp.com/)
 ## [Github Repo](https://github.com/JHoang6900/note_taker2)
 
 
